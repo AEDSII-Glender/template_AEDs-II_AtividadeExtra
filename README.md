@@ -1,5 +1,5 @@
-# AEDs II - Oficinas e Atividade 3 - Sistemas de software com Estruturas de dados de busca 
-Oficinas e atividade pontuada realizada em AEDs II, tendo em vista estruturas de dados de busca em sistemas de software.
+# AEDs II - Atividade Extra - Implementando uma Playlist
+Atividade Extra de AEDs II. Esta atividade não vale de forma isolada, apenas como reavaliação prática, caso o aluno atinga pelo menos a média na reavaliação teórica. 
 
 ## Aluno 
 
